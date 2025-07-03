@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "**/*.uid": true,
+    "**/*.tscn": true,
+    "**/*.svg": true,
+    "**/*.import": true
+  }
+}

@@ -1,6 +1,7 @@
 <p align="center">
   <img width="256px" src="logos/weekly_reward_logo.png" align="center" alt="Godot Weekly Reward" />
-
+  <h2 align="center">Godot Weekly Reward</h2>
+  
   ---
   <p align="center">Add-on that allows you to obtain a weekly reward, useful for mobile games.</p>
   <p align="center">This addon serves as the foundation for all projects developed in <a href="https://gauchoforge.com/">Gaucho Forge. <img src="logos/gaucho_forge_logo_transparent.png" alt="Gaucho Forge Logo" width="32" style="margin-right: 10px;" /></a></p>

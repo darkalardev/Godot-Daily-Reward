@@ -20,5 +20,10 @@
     </a>
 </p>
 
+## 💰 Donations
+❤️​ All donations go directly toward the development of my own games and the creation of free addons for Godot. Your support helps me create more and better projects.<br>
+  
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/darkalardev) 
+
 # 📄​ License
 This project is licensed under the MIT License. You are free to modify and use it however you like. Credit is not required, but always appreciated.
